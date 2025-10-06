@@ -1,6 +1,12 @@
 # Gimnasio Sport
 
-Proyecto del Práctico Integrador I de Ingeniería de Software II.
+Aplicacion web para la administracion de gimnasio desarrollado en Spring empleando diseño MVC, algunas features incorporadas son:
+- Manejo y seguimiento de cuotas y deuda de los socios
+- Posibilidad de pago de cuotas con Mercado Pago
+- Automatizacion de envio de mails (Cumpleaños y Promociones)
+- Creacion y seguimiento de rutinas de ejercicio para los profesores
+- Distintas funcionalidades para cada tipo de perfil ADMINISTRATIVO/PROFESOR/SOCIO
+- Login utilizando SpringSecurity
 
 ## Preparación del entorno
 
